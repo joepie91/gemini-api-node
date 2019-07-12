@@ -1,5 +1,5 @@
 {
-  "name": "gemini-api",
+  "name": "@joepie91/gemini-api",
   "version": "2.0.4",
   "description": "Node.js client for the Gemini cryptocurrency exchange API.",
   "main": "dist/index.js",
@@ -14,8 +14,11 @@
   "engines": {
     "node": ">=6"
   },
-  "repository": "http://github.com/mjesuele/gemini-api-node.git",
-  "author": "Matthew Jesuele <matt@makeapps.io>",
+  "repository": "https://github.com/joepie91/gemini-api-node.git",
+  "contributors": [
+    "Matthew Jesuele <matt@makeapps.io>",
+    "Sven Slootweg <admin@cryto.net>"
+  ],
   "license": "MIT",
   "devDependencies": {
     "ava": "^0.19.1",

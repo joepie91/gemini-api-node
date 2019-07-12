@@ -1,11 +1,15 @@
-# gemini-api
+# @joepie91/gemini-api
 
 Gemini cryptocurrency exchange API wrapper for Node.js
+
+## This is a fork!
+
+This fork adds more API methods as-needed, and updates some dependencies that were vulnerable. The original library can be found [here](https://github.com/mjesuele/gemini-api-node/).
 
 ## Installation
 
 ```
-yarn add gemini-api
+yarn add @joepie91/gemini-api
 ```
 
 ## Usage
