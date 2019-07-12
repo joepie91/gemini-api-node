@@ -88,7 +88,7 @@ Feedback and pull requests welcome!
 
 ## Changelog
 
-### v2.0.0 (July 12, 2019)
+### v3.0.0 (July 12, 2019)
 
 - __BREAKING:__ Support for Node.js < 8 dropped.
 - Added `getMyNotionalVolume` method.
