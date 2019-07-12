@@ -95,6 +95,9 @@ export default class GeminiAPI {
   getMyTradeVolume = () =>
     this.requestPrivate(`/tradevolume`)
 
+  getMyNotionalVolume = () =>
+    this.requestPrivate(`/notionalvolume`)
+
   // Fund Management API
   getMyAvailableBalances = () =>
     this.requestPrivate(`/balances`)

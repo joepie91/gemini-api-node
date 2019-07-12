@@ -86,6 +86,8 @@ class GeminiAPI {
 
     this.getMyTradeVolume = () => this.requestPrivate(`/tradevolume`);
 
+    this.getMyNotionalVolume = () => this.requestPrivate(`/notionalvolume`);
+
     this.getMyAvailableBalances = () => this.requestPrivate(`/balances`);
 
     this.newAddress = currency => this.requestPrivate(`/deposit/${currency}/newAddress`);

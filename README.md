@@ -59,6 +59,7 @@ All methods return promises.
 * getMyOrderStatus({ order_id })
 * getMyActiveOrders()
 * getMyPastTrades(params = {})
+* getMyNotionalVolume()
 * getMyTradeVolume()
 * getMyAvailableBalances()
 * newAddress(currency)
