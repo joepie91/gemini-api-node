@@ -29,7 +29,7 @@
     "babel-preset-stage-2": "^6.24.1",
     "eslint": "^3.11.0",
     "eslint-config-airbnb-base": "^10.0.1",
-    "eslint-config-makeapps": "latest",
+    "eslint-config-makeapps": "^6.0.0",
     "eslint-plugin-better": "^0.1.5",
     "eslint-plugin-fp": "^2.2.0",
     "eslint-plugin-import": "^2.2.0",
